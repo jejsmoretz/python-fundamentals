@@ -1,21 +1,21 @@
-### Python °ø½Ä È¨ÆäÀÌÁö
+### Python ê³µì‹ ë¬¸ì„œ
 https://docs.python.org
 
 ---
 
-### µµ¼­ ÃßÃµ
-* Áß±Þ
-  * ÆÄÀÌ½ã ÄÚµùÀÇ ±â¼ú  
+### ë„ì„œ ì¶”ì²œ
+* ì¤‘ê¸‰
+  * íŒŒì´ì¬ ì½”ë”©ì˜ ê¸°ìˆ   
   &nbsp;<img src="http://image.yes24.com/Goods/25138160/800x0" width=20%>
-  * ¼Õ¿¡ ÀâÈ÷´Â ÆÄÀÌ½ã(°¡Àå ³Ð°Ô ´Ù·ë)  
+  * ì†ì— ìž¡ížˆëŠ” íŒŒì´ì¬(ê°€ìž¥ ë„“ê²Œ ë‹¤ë£¸)  
   &nbsp;<img src="http://image.yes24.com/Goods/59440152/800x0" width=20%>
 
-* °í±Þ
-  * Àü¹®°¡¸¦ À§ÇÑ ÆÄÀÌ½ã  
+* ê³ ê¸‰
+  * ì „ë¬¸ê°€ë¥¼ ìœ„í•œ íŒŒì´ì¬  
     &nbsp;<img src="http://image.yes24.com/Goods/30231768/800x0" width=20%>
 
-* ¸Ó½Å·¯´×
-  * ¸¶½ºÅÍ ¾Ë°í¸®Áò  
+* ë¨¸ì‹ ëŸ¬ë‹
+  * ë§ˆìŠ¤í„° ì•Œê³ ë¦¬ì¦˜  
   &nbsp;<img src="http://image.yes24.com/Goods/29386373/800x0" width=20%>
-  * Do it! µ¥ÀÌÅÍ ºÐ¼®À» À§ÇÑ ÆÇ´Ù½º ÀÔ¹®  
+  * Do it! ë°ì´í„° ë¶„ì„ì„ ìœ„í•œ íŒë‹¤ìŠ¤ ìž…ë¬¸  
   &nbsp;<img src="http://image.yes24.com/Goods/64625506/800x0" width=20%>
